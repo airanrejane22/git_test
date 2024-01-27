@@ -1,0 +1,11 @@
+Git e GitHub
+
+Essa é uma ferramenta de gerenciamento e versionamento de códigos, mas o que é isso?
+
+Na verdade, com essa ferramenta você vai poder gerenciar seus códigos e as versões dos códigos.
+
+Pois nem sempre você quer simplesmente escrever um código e ficar alterando-o no mesmo “arquivo”. As vezes você vai querer fazer alguma alteração para ver o resultado ou quer fazer algum teste.
+
+Isso vai ser criado em uma versão diferente, por exemplo. Com isso você mantém o que já tinha e se der algum problema você tem como voltar para a versão anterior sem ter que se preocupar com o que escreveu ou excluiu.
+
+O GitHuB é um local no Git onde ficam armazenadas essas mudanças que estamos fazendo nos códigos, claro que existem outras ferramentas, mas esse é a mais utilizada.
